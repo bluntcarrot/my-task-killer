@@ -4,15 +4,16 @@
 
 My Task Killer is an Electron application with customizable settings that allows it to be used more efficiently than the default Windows Task Manager.
 
-Inline-style: 
+My Task Killer Overview: 
 
-![alt text](https://github.com/bluntcarrot/my-task-killer/images/my-task-killer-1.jpg "My Task Killer Overview screenshot")
+![Alt text](https://github.com/bluntcarrot/my-task-killer/images/my-task-killer-1.jpg "My Task Killer Overview screenshot")
 
-Inline-style: 
-![alt text](https://github.com/bluntcarrot/my-task-killer/images/my-task-killer-2.jpg "My Task Killer Add New Tasks screenshot")
+Screenshot of the customizable list of running processes you want to display: 
 
-Inline-style: 
-![alt text](https://github.com/bluntcarrot/my-task-killer/images/my-task-killer-3.jpg "My Task Killer Loading screen screenshot")
+![Alt text](https://github.com/bluntcarrot/my-task-killer/images/my-task-killer-2.jpg "My Task Killer Add New Tasks screenshot")
+
+
+![Alt text](https://github.com/bluntcarrot/my-task-killer/images/my-task-killer-3.jpg "My Task Killer Loading screen screenshot")
 
 
 ## To Use
@@ -22,10 +23,13 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 ```bash
 # Clone this repository
 git clone https://github.com/bluntcarrot/my-task-killer
+
 # Go into the repository
 cd my-task-killer
+
 # Install dependencies
 npm install
+
 # Run the app
 npm start
 ```
