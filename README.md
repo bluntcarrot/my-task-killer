@@ -6,14 +6,14 @@ My Task Killer is an Electron application with customizable settings that allows
 
 My Task Killer Overview: 
 
-![Alt text](https://github.com/bluntcarrot/my-task-killer/images/my-task-killer-1.jpg "My Task Killer Overview screenshot")
+![Alt text](https://github.com/bluntcarrot/my-task-killer/blob/master/images/my-task-killer-1.JPG "My Task Killer Overview screenshot")
 
 Screenshot of the customizable list of running processes you want to display: 
 
-![Alt text](https://github.com/bluntcarrot/my-task-killer/images/my-task-killer-2.jpg "My Task Killer Add New Tasks screenshot")
+![Alt text](https://github.com/bluntcarrot/my-task-killer/blob/master/images/my-task-killer-2.JPG "My Task Killer Add New Tasks screenshot")
 
 
-![Alt text](https://github.com/bluntcarrot/my-task-killer/images/my-task-killer-3.jpg "My Task Killer Loading screen screenshot")
+![Alt text](https://github.com/bluntcarrot/my-task-killer/blob/master/images/my-task-killer-3.JPG "My Task Killer Loading screen screenshot")
 
 
 ## To Use
