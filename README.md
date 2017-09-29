@@ -1,6 +1,6 @@
 # my-task-killer
 
-**Clone and run for a quick way to see Electron in action.**
+**Create your own customizable list of processes that will display if running, for a more efficient way to maintain system performance**
 
 My Task Killer is an Electron application with customizable settings that allows it to be used more efficiently than the default Windows Task Manager.
 
