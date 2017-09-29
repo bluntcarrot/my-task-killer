@@ -1,0 +1,21 @@
+{
+  "name": "my-task-killer",
+  "version": "1.0.0",
+  "description": "Customizable Task Manager",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/bluntcarrot/my-task-killer",
+  "keywords": ["electron","customizable task killer", "task killer"],
+  "author": "bluntcarrot",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  },
+  "dependencies": {
+    "jsonfile": "^4.0.0",
+    "ps-list": "^4.0.0",
+    "ps-node": "^0.1.6"
+  }
+}
